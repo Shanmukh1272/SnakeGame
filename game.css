@@ -1,0 +1,22 @@
+body {
+	background-color: #f0f0f0;
+}
+
+#game-container {
+	width: 400px;
+	height: 400px;
+	margin: 40px auto;
+	background-color: #fff;
+	border: 1px solid #ddd;
+	padding: 20px;
+}
+
+#game-canvas {
+	border: 1px solid #000;
+}
+
+#score {
+	font-size: 24px;
+	font-weight: bold;
+	margin-top: 10px;
+}
